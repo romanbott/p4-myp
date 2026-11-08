@@ -1,0 +1,52 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+*.egg-info/
+build/
+dist/
+pip-wheel-metadata/
+site/
+
+# Java / Maven / Eclipse
+target/
+java/bin/
+*.class
+hs_err_pid*
+replay_pid*
+dependency-reduced-pom.xml
+release.properties
+
+# IDE
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+out/
+
+# macOS / Windows
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
